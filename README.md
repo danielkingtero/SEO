@@ -33,6 +33,8 @@ Validación de exixtencia del archivo sitemap.xml
 ```
 dominio.com/sitemap.xml
 ```
+Herramienta:
+*Screamingfrog: https://www.screamingfrog.co.uk/
 
 <!-- Optimización de la Arquitectura -->
 ## Optimización de la Arquitectura
@@ -42,6 +44,10 @@ dominio.com/sitemap.xml
 
 <!-- Velocidad de Carga -->
 ## Velocidad de Carga
+
+*https://gtmetrix.com/
+*https://developers.google.com/speed/pagespeed/
+*SeoInfo
 
 <!-- Microformatos, hreflang y sitios en JavaScript -->
 ## Microformatos, hreflang y sitios en JavaScript

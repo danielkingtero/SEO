@@ -11,12 +11,28 @@ _SEO_
 ## Rastreo del sitio web
 
 ### Estado de indexación
-Uso de Operador para verificar resultados indexados en google.
+Uso de Operador para verificar resultados indexados en google. Se ejecuta busqueda en google asi:
 ```
 site:dominio.com
 ```
 ### Robot.txt
+Validación de exixtencia del archivo Robot.txt
+```
+dominio.com/robot.txt
+```
+*Allow= Permitir
+*Disallow= Bloquear
 
+### Etiqueta Meta Robots
+
+Herramienta:
+*Seolyzer: https://seolyzer.io/
+
+### Mapa de Sitio XML
+Validación de exixtencia del archivo sitemap.xml
+```
+dominio.com/sitemap.xml
+```
 
 <!-- Optimización de la Arquitectura -->
 ## Optimización de la Arquitectura

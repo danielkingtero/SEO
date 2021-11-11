@@ -10,10 +10,13 @@ _SEO_
 <!-- Rastreo del sitio web -->
 ## Rastreo del sitio web
 
+### Estado de indexación
 Uso de Operador para verificar resultados indexados en google.
 ```
 site:dominio.com
 ```
+### Robot.txt
+
 
 <!-- Optimización de la Arquitectura -->
 ## Optimización de la Arquitectura

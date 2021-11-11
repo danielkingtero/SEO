@@ -1,14 +1,19 @@
 # SEO
 
-Author: Daniel Quintero
-Start Date: 10 Noviembre 2021
+*Author: Daniel Quintero
+*Start Date: 10 Noviembre 2021
 
-# Project Tittle
+# Search Engine Optimization
 
-_Search Engine Optimization_
+_SEO_
 
 <!-- Rastreo del sitio web -->
 ## Rastreo del sitio web
+
+Uso de Operador para verificar resultados indexados en google.
+```
+site:dominio.com
+```
 
 <!-- Optimización de la Arquitectura -->
 ## Optimización de la Arquitectura
